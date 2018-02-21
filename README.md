@@ -7,6 +7,5 @@ This plugin is a modification of CAC27's Tag All that allows it to work with Enh
 
 **ISSUES**
 
-Only works after you have selected a different guild on startup
-
-## Eh
+- Only works after you have selected a different guild on startup
+- If the role has no name, it will spam @'s, making it impossible to mention anyone
